@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 ,SJN_CINEMAX&MAS
 http://tv.masterplaytv.xyz:8000/Lilyhome2019/AU6nxKsskQ/26743
 #EXTINF:-1 ,EVENTOS OPCION 1 99%
